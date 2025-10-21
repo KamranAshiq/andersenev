@@ -1,4 +1,20 @@
+# ANDERSEN SMART CHARGING
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
+## App Demo
+
+### Login Screen
+![Login Screen](https://github.com/KamranAshiq/andersenev/blob/main/docs/login-screen.png)
+
+### Create Account Screen
+![Create Account Screen](https://github.com/KamranAshiq/andersenev/blob/main/docs/create-account-screen.png)
+
+### Main Dashboard
+![Main Dashboard](https://github.com/KamranAshiq/andersenev/blob/main/docs/main-dashboard.png)
+
+### Edit Schedule Screen
+![Edit Schedule Screen](https://github.com/KamranAshiq/andersenev/blob/main/docs/edit-schedule-screen.png)
 
 # Getting Started
 
